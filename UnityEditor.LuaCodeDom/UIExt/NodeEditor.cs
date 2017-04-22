@@ -27,7 +27,6 @@ namespace UnityEditor.UI.UIExt
 
         protected bool Valid = false;
 
-        protected List<string> Type2Export = new List<string>(); 
 
         protected virtual void OnDisable()
         {

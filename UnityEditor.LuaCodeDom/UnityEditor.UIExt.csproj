@@ -44,6 +44,7 @@
     <Compile Include="UIExt\IPath.cs" />
     <Compile Include="UIExt\Node.cs" />
     <Compile Include="UIExt\NodeEditor.cs" />
+    <Compile Include="UIExt\NodePreview.cs" />
     <Compile Include="UIExt\Persist.cs" />
     <Compile Include="UIExt\PersistData.cs" />
     <Compile Include="UIExt\PrefabNode.cs" />
