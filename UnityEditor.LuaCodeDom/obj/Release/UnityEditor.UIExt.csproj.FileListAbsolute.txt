@@ -1,0 +1,11 @@
+D:\GitSrc\Unity-Technologies-ui-5.5\UnityEditor.LuaCodeDom\bin\Release\UnityEditor.dll
+D:\GitSrc\Unity-Technologies-ui-5.5\UnityEditor.LuaCodeDom\bin\Release\UnityEditor.UI.dll
+D:\GitSrc\Unity-Technologies-ui-5.5\UnityEditor.LuaCodeDom\bin\Release\UnityEngine.dll
+D:\GitSrc\Unity-Technologies-ui-5.5\UnityEditor.LuaCodeDom\bin\Release\UnityEngine.UI.dll
+D:\GitSrc\Unity-Technologies-ui-5.5\UnityEditor.LuaCodeDom\bin\Release\UnityEditor.UI.pdb
+D:\GitSrc\Unity-Technologies-ui-5.5\UnityEditor.LuaCodeDom\bin\Release\UnityEngine.UI.pdb
+D:\GitSrc\Unity-Technologies-ui-5.5\UnityEditor.LuaCodeDom\obj\Release\UnityEditor.UIExt.csprojResolveAssemblyReference.cache
+D:\GitSrc\Unity-Technologies-ui-5.5\UnityEditor.LuaCodeDom\bin\Release\UnityEditor.UIExt.dll
+D:\GitSrc\Unity-Technologies-ui-5.5\UnityEditor.LuaCodeDom\bin\Release\UnityEditor.UIExt.pdb
+D:\GitSrc\Unity-Technologies-ui-5.5\UnityEditor.LuaCodeDom\obj\Release\UnityEditor.UIExt.dll
+D:\GitSrc\Unity-Technologies-ui-5.5\UnityEditor.LuaCodeDom\obj\Release\UnityEditor.UIExt.pdb
